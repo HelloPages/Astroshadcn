@@ -2,7 +2,7 @@ export const heroData = {
   name: 'John Doe',
   title: 'Full-Stack Developer',
   description: 'I build scalable web applications and transform raw data into meaningful insights that drive business success.',
-  profilePicture: 'https://example.com/profilepic.jpg',
+  profilePicture: 'https://s2.loli.net/2025/04/02/InhoWUFepGxbcPs.png',
   skills: [
     'JavaScript',
     'React',
