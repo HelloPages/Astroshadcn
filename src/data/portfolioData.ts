@@ -20,9 +20,9 @@ export const projects: Project[] = [
     title: "Customer Insights Dashboard for E-Commerce",
     summary: "Developed an interactive Power BI dashboard to analyze customer behavior, sales trends, and marketing performance for an e-commerce company.",
     images: [
-      "https://example.com/dashboard1.jpg",
-      "https://example.com/dashboard2.jpg",
-      "https://example.com/dashboard3.jpg"
+      "https://s2.loli.net/2025/05/28/ZebLEztNIusrKVv.jpg",
+      "https://s2.loli.net/2025/04/02/InhoWUFepGxbcPs.png",
+      "https://s2.loli.net/2023/09/04/I8lKFSgXhJDntWM.jpg"
     ],
     tags: ["Power BI", "SQL", "Data Visualization", "Customer Analytics", "Business Intelligence"],
     details: {
@@ -39,8 +39,8 @@ export const projects: Project[] = [
     title: "Automated Financial Reporting System",
     summary: "Created an automated ETL pipeline to streamline financial reporting, reducing manual data processing time for a financial services firm.",
     images: [
-      "https://example.com/finance1.jpg",
-      "https://example.com/finance2.jpg"
+      "https://s2.loli.net/2025/05/28/ZebLEztNIusrKVv.jpg",
+      "https://s2.loli.net/2023/09/04/I8lKFSgXhJDntWM.jpg"
     ],
     tags: ["Python", "ETL", "Data Engineering", "Finance", "Power BI", "Automation"],
     details: {
