@@ -7,9 +7,9 @@ export const footerData = {
       icon: 'Github'
     },
     {
-      name: 'linkedin',
+      name: 'LinkedIn',
       url: 'https://www.linkedin.com/in/username/',
-      icon: 'linkedin'
+      icon: 'Linkedin'
     },
     {
       name: 'Email',
