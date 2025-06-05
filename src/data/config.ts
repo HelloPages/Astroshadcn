@@ -6,7 +6,7 @@ export const config = {
   keywords: 'portfolio, business intelligence, data analysis, Power BI Reports, Software Engineer, Web Developer',
   favicon: '/favicon.svg',
   social: {
-    linkedin: 'https://www.linkedin.com/in/johndoe/',
-    github: 'https://github.com/johndoe'
+    linkedin: 'https://www.linkedin.com/in/username/',
+    github: 'https://github.com/username'
   }
 };
